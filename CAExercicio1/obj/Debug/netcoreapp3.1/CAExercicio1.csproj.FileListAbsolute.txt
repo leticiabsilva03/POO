@@ -1,0 +1,13 @@
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\bin\Debug\netcoreapp3.1\CAExercicio1.exe
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\bin\Debug\netcoreapp3.1\CAExercicio1.deps.json
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\bin\Debug\netcoreapp3.1\CAExercicio1.runtimeconfig.json
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\bin\Debug\netcoreapp3.1\CAExercicio1.runtimeconfig.dev.json
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\bin\Debug\netcoreapp3.1\CAExercicio1.dll
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\bin\Debug\netcoreapp3.1\CAExercicio1.pdb
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\obj\Debug\netcoreapp3.1\CAExercicio1.csproj.AssemblyReference.cache
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\obj\Debug\netcoreapp3.1\CAExercicio1.AssemblyInfoInputs.cache
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\obj\Debug\netcoreapp3.1\CAExercicio1.AssemblyInfo.cs
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\obj\Debug\netcoreapp3.1\CAExercicio1.csproj.CoreCompileInputs.cache
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\obj\Debug\netcoreapp3.1\CAExercicio1.dll
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\obj\Debug\netcoreapp3.1\CAExercicio1.pdb
+D:\UFU\2021.2\Programação Orientada a Objetos\Projetos\Lista Exercícios\CAExercicio1\obj\Debug\netcoreapp3.1\CAExercicio1.genruntimeconfig.cache
