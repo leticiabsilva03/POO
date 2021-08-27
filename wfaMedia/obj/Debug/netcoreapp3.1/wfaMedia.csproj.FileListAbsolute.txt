@@ -1,0 +1,15 @@
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\bin\Debug\netcoreapp3.1\wfaMedia.exe
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\bin\Debug\netcoreapp3.1\wfaMedia.deps.json
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\bin\Debug\netcoreapp3.1\wfaMedia.runtimeconfig.json
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\bin\Debug\netcoreapp3.1\wfaMedia.runtimeconfig.dev.json
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\bin\Debug\netcoreapp3.1\wfaMedia.dll
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\bin\Debug\netcoreapp3.1\wfaMedia.pdb
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\obj\Debug\netcoreapp3.1\wfaMedia.csproj.AssemblyReference.cache
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\obj\Debug\netcoreapp3.1\wfaMedia.Form1.resources
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\obj\Debug\netcoreapp3.1\wfaMedia.csproj.GenerateResource.cache
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\obj\Debug\netcoreapp3.1\wfaMedia.AssemblyInfoInputs.cache
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\obj\Debug\netcoreapp3.1\wfaMedia.AssemblyInfo.cs
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\obj\Debug\netcoreapp3.1\wfaMedia.csproj.CoreCompileInputs.cache
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\obj\Debug\netcoreapp3.1\wfaMedia.dll
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\obj\Debug\netcoreapp3.1\wfaMedia.pdb
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaMedia\obj\Debug\netcoreapp3.1\wfaMedia.genruntimeconfig.cache
