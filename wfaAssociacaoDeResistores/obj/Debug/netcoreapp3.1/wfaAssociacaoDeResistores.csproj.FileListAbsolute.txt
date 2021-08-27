@@ -1,0 +1,15 @@
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\bin\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.exe
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\bin\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.deps.json
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\bin\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.runtimeconfig.json
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\bin\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.runtimeconfig.dev.json
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\bin\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.dll
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\bin\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.pdb
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\obj\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.csproj.AssemblyReference.cache
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\obj\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.Form1.resources
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\obj\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.csproj.GenerateResource.cache
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\obj\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.AssemblyInfoInputs.cache
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\obj\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.AssemblyInfo.cs
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\obj\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.csproj.CoreCompileInputs.cache
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\obj\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.dll
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\obj\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.pdb
+C:\Users\letic\Desktop\P1 POO\Estudos\wfaAssociacaoDeResistores\obj\Debug\netcoreapp3.1\wfaAssociacaoDeResistores.genruntimeconfig.cache
