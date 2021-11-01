@@ -1,0 +1,15 @@
+C:\Users\letic\Desktop\Questão 1\wfaContainers\obj\Debug\netcoreapp3.1\wfaContainers.csproj.AssemblyReference.cache
+C:\Users\letic\Desktop\Questão 1\wfaContainers\obj\Debug\netcoreapp3.1\wfaContainers.Form1.resources
+C:\Users\letic\Desktop\Questão 1\wfaContainers\obj\Debug\netcoreapp3.1\wfaContainers.csproj.GenerateResource.cache
+C:\Users\letic\Desktop\Questão 1\wfaContainers\obj\Debug\netcoreapp3.1\wfaContainers.AssemblyInfoInputs.cache
+C:\Users\letic\Desktop\Questão 1\wfaContainers\obj\Debug\netcoreapp3.1\wfaContainers.AssemblyInfo.cs
+C:\Users\letic\Desktop\Questão 1\wfaContainers\obj\Debug\netcoreapp3.1\wfaContainers.csproj.CoreCompileInputs.cache
+C:\Users\letic\Desktop\Questão 1\wfaContainers\bin\Debug\netcoreapp3.1\wfaContainers.exe
+C:\Users\letic\Desktop\Questão 1\wfaContainers\bin\Debug\netcoreapp3.1\wfaContainers.deps.json
+C:\Users\letic\Desktop\Questão 1\wfaContainers\bin\Debug\netcoreapp3.1\wfaContainers.runtimeconfig.json
+C:\Users\letic\Desktop\Questão 1\wfaContainers\bin\Debug\netcoreapp3.1\wfaContainers.runtimeconfig.dev.json
+C:\Users\letic\Desktop\Questão 1\wfaContainers\bin\Debug\netcoreapp3.1\wfaContainers.dll
+C:\Users\letic\Desktop\Questão 1\wfaContainers\bin\Debug\netcoreapp3.1\wfaContainers.pdb
+C:\Users\letic\Desktop\Questão 1\wfaContainers\obj\Debug\netcoreapp3.1\wfaContainers.dll
+C:\Users\letic\Desktop\Questão 1\wfaContainers\obj\Debug\netcoreapp3.1\wfaContainers.pdb
+C:\Users\letic\Desktop\Questão 1\wfaContainers\obj\Debug\netcoreapp3.1\wfaContainers.genruntimeconfig.cache
