@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "wfaContainers/1.0.0": {
+        "runtime": {
+          "wfaContainers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wfaContainers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
